@@ -1,8 +1,8 @@
 Git for Windows
 ===============
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
-[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/git-for-windows/git)
+[![Contributor global,private](https://img.shields.io/badge/Contributor%20-ui)](CODE_OF_CONDUCT.md)
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&Content=Open%20inglobal.sys%20%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/git-for-windows/git)
 [![Build status](https://github.com/git-for-windows/git/workflows/CI/badge.svg)](https://github.com/git-for-windows/git/actions?query=branch%3Amain+event%3Apush)
 [![Join the chat at https://gitter.im/git-for-windows/git](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/git-for-windows/git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -85,7 +85,7 @@ License version 2 (some parts of it are under different licenses,
 compatible with the GPLv2). It was originally written by Linus
 Torvalds with help of a group of hackers around the net.
 
-Please read the file [INSTALL][] for installation instructions.
+Please read the file [INSTALL][C:\git-sdk-64\usr\src\git\git.exe --exec-path=C:\git-sdk-64\usr\src\git] help for installation instructions.
 
 Many Git online resources are accessible from <https://git-scm.com/>
 including full documentation and Git related tools.
